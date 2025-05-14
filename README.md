@@ -1,2 +1,11 @@
-# Video-Player-Python-For-MacOS
-Advanced cross-platform media player built with Python &amp; PyQt5. Features VLC-based playback, playlists, video effects, 10-band equalizer, YouTube/streaming, ad integration, and open-source sponsorship. Strict proprietary license—no free or commercial use.
+## 🔒 License
+This project is licensed for **non-commercial, personal use only**.  
+For more details, refer to the [`LICENSE`](LICENSE) file.
+
+## 💼 Commercial Use
+If you wish to use this project for commercial purposes, including distribution or modification, you must obtain a paid license.  
+For more information, refer to the [`COMMERCIAL_LICENSE.md`](COMMERCIAL_LICENSE.md) file.  
+
+### 📧 Contact
+For licensing inquiries or further details, please contact:  
+**Email**: [joshimrutyunjay32@gmail.com](mailto:joshimrutyunjay32@gmail.com)
