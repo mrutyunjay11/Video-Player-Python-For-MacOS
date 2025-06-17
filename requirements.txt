@@ -12,7 +12,7 @@ PyQt5_sip==12.17.0
 pyqtgraph==0.13.7
 python-vlc==3.0.21203
 pytube==15.0.0
-requests==2.32.3
+requests==2.32.4
 screeninfo==0.8.1
 soupsieve==2.7
 typing_extensions==4.13.2
